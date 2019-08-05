@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.zhaop.test.mapper.TestMapper">
+
+    <insert id="inserto">
+      INSERT INTO zzz(id,name_s,age)VALUES(11,'ggg',22)
+    </insert>
+
+    <insert id="insertt">
+      INSERT INTO zzz(id,name_s,age)VALUES(12,'hhh',23)
+    </insert>
+
+    <select id="searchTestInfo" resultType="java.util.Map" parameterType="java.util.Map">
+        <![CDATA[
+          SELECT id,name_s,age,aaa FROM zzz WHERE id = ${id}
+        ]]>
+    </select>
+</mapper>

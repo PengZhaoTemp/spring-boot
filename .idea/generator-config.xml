@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PersistentConfig">
+    <option name="historyConfigList">
+      <map>
+        <entry key="S_APP_MATERIALS">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/main/java" />
+              <option name="daoName" value="" />
+              <option name="daoPackage" value="generator" />
+              <option name="daoPostfix" value="" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$" />
+              <option name="modelMvnPath" value="src/main/java" />
+              <option name="modelName" value="SAppMaterials" />
+              <option name="modelPackage" value="generator" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$" />
+              <option name="name" value="S_APP_MATERIALS" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="" />
+              <option name="projectFolder" value="$PROJECT_DIR$" />
+              <option name="tableName" value="S_APP_MATERIALS" />
+              <option name="useExample" value="true" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="xmlMvnPath" value="src/main/resources" />
+              <option name="xmlPackage" value="generator" />
+              <option name="xmlTargetFolder" value="$PROJECT_DIR$" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="S_BL_FLOWSHEET">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/main/java" />
+              <option name="daoName" value="SBlFlowsheetDao" />
+              <option name="daoPackage" value="generator" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$" />
+              <option name="modelMvnPath" value="src/main/java" />
+              <option name="modelName" value="SBlFlowsheet" />
+              <option name="modelPackage" value="generator" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$" />
+              <option name="name" value="S_BL_FLOWSHEET" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="" />
+              <option name="projectFolder" value="$PROJECT_DIR$" />
+              <option name="tableName" value="S_BL_FLOWSHEET" />
+              <option name="useExample" value="true" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="xmlMvnPath" value="src/main/resources" />
+              <option name="xmlPackage" value="generator" />
+              <option name="xmlTargetFolder" value="$PROJECT_DIR$" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="S_FILE_UPLOAD">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/main/java" />
+              <option name="daoName" value="SFileUploadDao" />
+              <option name="daoPackage" value="generator" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$" />
+              <option name="modelMvnPath" value="src/main/java" />
+              <option name="modelName" value="SFileUpload" />
+              <option name="modelPackage" value="generator" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$" />
+              <option name="name" value="S_FILE_UPLOAD" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="" />
+              <option name="projectFolder" value="$PROJECT_DIR$" />
+              <option name="tableName" value="S_FILE_UPLOAD" />
+              <option name="useExample" value="true" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="xmlMvnPath" value="src/main/resources" />
+              <option name="xmlPackage" value="generator" />
+              <option name="xmlTargetFolder" value="$PROJECT_DIR$" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="S_ITEMS">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/main/java" />
+              <option name="daoName" value="SItemsDao" />
+              <option name="daoPackage" value="generator" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$" />
+              <option name="modelMvnPath" value="src/main/java" />
+              <option name="modelName" value="SItems" />
+              <option name="modelPackage" value="generator" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$" />
+              <option name="name" value="S_ITEMS" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="" />
+              <option name="projectFolder" value="$PROJECT_DIR$" />
+              <option name="tableName" value="S_ITEMS" />
+              <option name="useExample" value="true" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="xmlMvnPath" value="src/main/resources" />
+              <option name="xmlPackage" value="generator" />
+              <option name="xmlTargetFolder" value="$PROJECT_DIR$" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="S_SL">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/main/java" />
+              <option name="daoName" value="SSlDao" />
+              <option name="daoPackage" value="generator" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$" />
+              <option name="modelMvnPath" value="src/main/java" />
+              <option name="modelName" value="SSl" />
+              <option name="modelPackage" value="generator" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$" />
+              <option name="name" value="S_SL" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="" />
+              <option name="projectFolder" value="$PROJECT_DIR$" />
+              <option name="tableName" value="S_SL" />
+              <option name="useExample" value="true" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="xmlMvnPath" value="src/main/resources" />
+              <option name="xmlPackage" value="generator" />
+              <option name="xmlTargetFolder" value="$PROJECT_DIR$" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="S_SPECIAL_LINK">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/main/java" />
+              <option name="daoName" value="SSpecialLinkDao" />
+              <option name="daoPackage" value="generator" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$" />
+              <option name="modelMvnPath" value="src/main/java" />
+              <option name="modelName" value="SSpecialLink" />
+              <option name="modelPackage" value="generator" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$" />
+              <option name="name" value="S_SPECIAL_LINK" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="" />
+              <option name="projectFolder" value="$PROJECT_DIR$" />
+              <option name="tableName" value="S_SPECIAL_LINK" />
+              <option name="useExample" value="true" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="xmlMvnPath" value="src/main/resources" />
+              <option name="xmlPackage" value="generator" />
+              <option name="xmlTargetFolder" value="$PROJECT_DIR$" />
+            </Config>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="users">
+      <map>
+        <entry key="jdbc:oracle:thin:@10.5.70.129:1521:sxgafw2">
+          <value>
+            <User>
+              <option name="username" value="tc_webjj" />
+            </User>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
