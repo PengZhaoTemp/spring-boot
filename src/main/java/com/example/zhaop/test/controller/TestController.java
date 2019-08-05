@@ -109,6 +109,7 @@ public class TestController {
     public String getUserMessage(HttpServletRequest request) {
         String id = "";
         try {
+            System.out.println("11111111");
             String token = request.getHeader("token");
             id = JWT.decode(token).getAudience().get(0);
             System.out.println("---------id------>>> " + id);
